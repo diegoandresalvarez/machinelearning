@@ -2,9 +2,16 @@
 # 4200xxx - Aprendizaje automático aplicado a la ingeniería civil (Machine learning for civil engineering)
 
 <p float="left">
-  <img src="https://imgs.xkcd.com/comics/machine_learning.png" height="485" />
-
-"The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent." Source: https://xkcd.com/1838/
+  <p style="font-weight: bold; margin: 0 0 8px 0; font-size: 18px;">xkcd comic: Machine learning</p>
+  <img
+    src="https://imgs.xkcd.com/comics/machine_learning.png"
+    height="485"
+    alt="xkcd comic: Machine learning"
+    title="The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent."
+  />
+  <figcaption style="margin-top: 8px; font-size: 14px;">
+    Source: <a href="https://xkcd.com/1838/" target="_blank" rel="noopener noreferrer">xkcd.com/1838</a>
+  </figcaption>
 </p>
 
 - Profesor: [Diego Andrés Alvarez Marín](https://sites.google.com/site/diegoandresalvarezmarin/) (daalvarez@unal.edu.co)

@@ -1,7 +1,7 @@
 # Observaciones generales y temario del curso
 
 <p float="left">
-  <p style="font-weight: bold; margin: 0 0 8px 0;">xkcd comic: Trained a Neural Net</p>
+  <p style="font-weight: bold; margin: 0 0 8px 0; font-size: 18px;">xkcd comic: Trained a Neural Net</p>
   <img
     src="https://imgs.xkcd.com/comics/trained_a_neural_net.png"
     height="485"
@@ -79,7 +79,7 @@ En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios num
 
 <code style="color: #ff0000;">Se permite para los exámenes, que el profesor indique, traer una hoja tamaño carta en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas y comandos de PYTHON que deseen. En la hoja no se pueden ni escribir programas, ni textos explicativos, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones).</code>
 
-## Descripción de la asignatura y objetivos de aprendizaje
+## Descripción de la asignatura
 
 En este curso se hará una introducción a el aprendizaje automático (machine learning) con énfasis en aplicaciones a la ingeniería civil. Se cubrirán los fundamentos teóricos de los modelos de aprendizaje automático, así como técnicas de entrenamiento, regularización y arquitecturas como los perceptrones multicapa y las redes neuronales convolucionales y recurrentes. Se enfatizará el uso de Python y bibliotecas populares como NumPy, pandas, Matplotlib, scikit-learn y PyTorch o TensorFlow. 
 
@@ -101,10 +101,12 @@ Además, se explorarán aplicaciones prácticas en áreas como:
 * Combinación de datos geoespaciales (altitud, uso del suelo, tipo de suelo, precipitaciones) con aprendizaje automático para crear mapas de alta resolución que identifiquen las zonas con mayor riesgo de inundaciones repentinas.
 --->
 
+## Objetivos de aprendizaje
+
 Se espera que al final del curso, el estudiante esté en capacidad de:
 * Identificar y explicar los fundamentos teóricos de los modelos de aprendizaje automático.
 * Identificar y formular problemas de ingeniería civil (estructural, geotécnica, transporte, hidráulica) como tareas de aprendizaje automático.
-*Implementar y entrenar modelos de regresión lineal, perceptrones multicapa (MLPs), redes neuronales convolucionales (CNNs) y recurrentes (RNNs/LSTM/GRU) en Python, aplicándolos a datos reales de sensores, imágenes o series temporales.
+* Implementar y entrenar modelos de regresión lineal, perceptrones multicapa (MLPs), redes neuronales convolucionales (CNNs) y recurrentes (RNNs/LSTM/GRU) en Python, aplicándolos a datos reales de sensores, imágenes o series temporales.
 * Aplicar técnicas de optimización (backpropagation, descenso de gradiente, Adam), regularización (L1/L2, dropout, normalización) y prevención de sobreajuste para mejorar la generalización de modelos en escenarios de ingeniería con datos limitados o ruidosos.
 * Evaluar críticamente los resultados obtenidos y comunicar sus hallazgos de manera efectiva.
 
