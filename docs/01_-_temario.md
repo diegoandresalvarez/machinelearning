@@ -1,21 +1,16 @@
 # Observaciones generales y temario del curso
 
 <p float="left">
-xkcd comic: Trained a Neural Net
-
-  <img src="https://imgs.xkcd.com/comics/trained_a_neural_net.png" height="485" />
-
-"It also works for anything you teach someone else to do. ``Oh yeah, I trained a pair of neural nets, Emily and Kevin, to respond to support tickets."
-  Source: https://xkcd.com/2173/
-</p>
-
-<p float="left">
+  <p style="font-weight: bold; margin: 0 0 8px 0;">xkcd comic: Trained a Neural Net</p>
   <img
     src="https://imgs.xkcd.com/comics/trained_a_neural_net.png"
     height="485"
     alt="xkcd comic: Trained a Neural Net"
     title="It also works for anything you teach someone else to do. `Oh yeah, I trained a pair of neural nets, Emily and Kevin, to respond to support tickets.`"
   />
+  <figcaption style="margin-top: 8px; font-size: 14px;">
+    Source: <a href="https://xkcd.com/2173/" target="_blank" rel="noopener noreferrer">xkcd.com/2173</a>
+  </figcaption>
 </p>
 
 ## Citas para preguntas
