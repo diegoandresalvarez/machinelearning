@@ -81,7 +81,7 @@ En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios num
 
 ## Descripción de la asignatura
 
-En este curso se hará una introducción a el aprendizaje automático (machine learning) con énfasis en aplicaciones a la ingeniería civil. Se cubrirán los fundamentos teóricos de los modelos de aprendizaje automático, así como técnicas de entrenamiento, regularización y arquitecturas como los perceptrones multicapa y las redes neuronales convolucionales y recurrentes. Se enfatizará el uso de Python y bibliotecas populares como NumPy, pandas, Matplotlib, scikit-learn y PyTorch o TensorFlow. 
+En este curso se hará una introducción a el aprendizaje automático (machine learning) con énfasis en aplicaciones a la ingeniería civil. Se cubrirán los fundamentos teóricos de los modelos de aprendizaje automático, así como técnicas de entrenamiento, regularización y arquitecturas como los perceptrones multicapa y las redes neuronales convolucionales y recurrentes. Se enfatizará el uso de Python (utilizando Jupyter Notebooks) y bibliotecas populares como NumPy, pandas, Matplotlib, scikit-learn y PyTorch o TensorFlow. 
 
 Se realizarán aplicaciones reales en áreas como monitoreo de salud estructural, predicción de resistencia de materiales, análisis de series temporales en tráfico y recursos hídricos, detección de daños por imágenes, redes neuronales informadas por física para modelado de procesos físicos, aproximación eficiente de simulaciones costosas computacionalmente, entre otras aplicaciones relevantes para la ingeniería civil.
 
