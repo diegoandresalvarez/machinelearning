@@ -23,9 +23,9 @@
 * Christopher Olah: https://colah.github.io/
 
 ## Youtube channels
-* 3Blue1Brown:
-
-
+* 3Blue1Brown: https://www.youtube.com/c/3blue1brown
+* 3Blue1Brown en español: https://www.youtube.com/@3blue1brownespanol
+* Pepe Cantoral: https://www.youtube.com/@PepeCantoralPhD
 
 <!---
 que bases de datos existen en Kaggle que puedan ser útiles para un curso de aprendizaje automático aplicado a la ingeniería civil
