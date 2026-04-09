@@ -1,4 +1,4 @@
-# Resources for learning machine learning
+# Resources for learning "machine learning"
 
 <p float="left">
   <p style="font-weight: bold; margin: 0 0 8px 0; font-size: 18px;">xkcd comic: Machine Learning Captcha</p>
@@ -33,7 +33,7 @@
 * Andrej Karpathy: https://karpathy.github.io/
 * Christopher Olah: https://colah.github.io/
 
-## Youtube channels
+## YouTube channels
 * 3Blue1Brown: https://www.youtube.com/c/3blue1brown
 * 3Blue1Brown en español: https://www.youtube.com/@3blue1brownespanol
 * Pepe Cantoral: https://www.youtube.com/@PepeCantoralPhD
