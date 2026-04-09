@@ -137,6 +137,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 #### Repaso de teoría de probabilidades (teoría y ejercicios de aplicación)
 * Variables aleatorias discretas y continuas
+* Teorema de Bayes
 * Función de distribución acumulada
 * Función de densidad de probabilidad
 * Esperanza matemática, varianza y desviación estándar
