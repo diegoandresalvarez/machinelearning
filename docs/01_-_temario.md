@@ -130,7 +130,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 #### Repaso de cálculo vectorial (teoría y ejercicios de aplicación)
 * Gradiente
-* Matriz jacobiana y jacobiano
+* Matriz jacobiana
 * Optimización de funciones multivariadas sin restricciones
 * Optimización de funciones multivariadas con restricciones de igualdad (multiplicadores de Lagrange)
 * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
@@ -144,30 +144,29 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Método de la máxima verosimilitud (maximum likelihood method)
 
 ### 1. Introduction to machine learning
-* Overview of ML in civil engineering (structural, geotechnical, transport, water, structural health monitoring).
+* Overview of ML in civil engineering (material science, structural, geotechnical, transport, water, structural health monitoring).
 * Types of learning: supervised, unsupervised, semi‑supervised; reinforcement learning.
 * Neural networks and deep learning
 * Datasets
 * Features
 
-### 2. Linear regression
+### 2. Linear regression and classification
 * Simple and multiple linear regression
 * Polynomial regression
+* Logistic regression
 * Training, validation, testing sets
-* Loss functions for regression
+* Loss functions for regression and classification
 * Least squares
-* LMS algorithm
 * Overfitting vs. Underfitting
 * Bias-variance trade-off
 * Model selection
 * Limitations of linear models
-* Applications of linear regression in civil engineering
+* Applications of linear regression and classification in civil engineering
 
 ### 3. Multilayer perceptrons
 * History of the MLPs
-* Universal approximation theorem
 * Architecture of the MLP: activation functions, hidden layers, weights and bias
-* Loss functions for regression and classification
+* Universal approximation theorem
 * Training of MLPs
 * Data preprocessing
 * Weight initialization
@@ -221,6 +220,88 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Limitations of RNNs
 * Introduction to transformers and attention mechanisms
 * Applications of RNNs in civil engineering
+
+### 8. Ethical considerations in machine learning
+
+<!---
+### 1. Introducción al aprendizaje automático
+* Panorama general del aprendizaje automático en ingeniería civil (materiales, estructural, geotécnica, transporte, hidráulica, monitoreo del estado estructural).
+* Tipos de aprendizaje: supervisado, no supervisado, semisupervisado; aprendizaje por refuerzo.
+* Redes neuronales y aprendizaje profundo
+* Conjuntos de datos
+* Características
+
+### 2. Regresión lineal
+* Regresión lineal simple y múltiple
+* Regresión polinómica
+* Conjuntos de entrenamiento, validación y prueba
+* Funciones de pérdida para regresión
+* Mínimos cuadrados
+* Algoritmo LMS
+* Sobreajuste vs. Subajuste
+* Compromiso entre sesgo y varianza
+* Selección de modelos
+* Limitaciones de los modelos lineales
+* Aplicaciones de la regresión lineal en ingeniería civil
+
+### 3. Perceptrones multicapa
+* Historia de los MLP
+* Arquitectura del MLP: funciones de activación, capas ocultas, pesos y sesgo
+* Teorema de aproximación universal
+* Funciones de pérdida para regresión y clasificación
+* Entrenamiento de los MLP
+* Preprocesamiento de datos
+* Inicialización de pesos
+* Limitaciones de los MLP
+* Aplicaciones de los MLP en ingeniería civil
+
+### 4. Entrenamiento y retropropagación
+* El entrenamiento como un problema de optimización
+* Retropropagación
+* Diferenciación automática
+* Aprendizaje por lotes
+* Aprendizaje en línea
+* Curva de aprendizaje
+* Tasa de aprendizaje y planificadores
+* Momento
+* Métodos de optimización (descenso de gradiente, RMSProp, AdaGrad, Adam, etc.)
+* Gradientes que se desvanecen o explotan
+* Ajuste de hiperparámetros
+* Redes neuronales guiadas por la física
+* Aplicaciones de técnicas de entrenamiento en ingeniería civil
+
+### 5. Regularización y otras técnicas para mejorar la generalización
+* Regularización L1 (Lasso)
+* Regularización L2 (Ridge, Tikhonov o decaimiento de peso)
+* Parada temprana
+* Aumento de datos
+* Dropout
+* Conexiones residuales
+* Capas de normalización
+* Aplicaciones de técnicas de regularización en ingeniería civil
+
+### 6. Redes neuronales convolucionales
+* Arquitectura de una CNN: capas convolucionales, de agrupación y totalmente conectadas
+* Canales de una imagen
+* CNN más populares: LeNet, AlexNet, VGG-16, ResNet, etc.
+* Conjunto de datos ImageNet
+* Métodos de capa de normalización para CNN
+* Detección de objetos, familia YOLO
+* Segmentación semántica
+* Limitaciones de las CNN
+* Aplicaciones de las CNN en ingeniería civil
+
+### 7. Redes neuronales recurrentes
+* Redes NARX y Elman como precursoras de las RNN
+* Métodos de entrenamiento (BPTT)
+* Gradientes que se desvanecen o explotan
+* RNN con compuertas: LSTM y GRU
+* RNN apiladas y bidireccionales
+* Limitaciones de las RNN
+* Introducción a los transformadores y mecanismos de atención
+* Aplicaciones de las RNN en ingeniería civil
+--->
+
 
 <!---
 ### 11. Applications of machine learning in engineering
