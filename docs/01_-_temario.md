@@ -83,7 +83,7 @@ En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios num
 
 En este curso se hará una introducción a el aprendizaje automático (machine learning) con énfasis en aplicaciones a la ingeniería civil. Se cubrirán los fundamentos teóricos de los modelos de aprendizaje automático, así como técnicas de entrenamiento, regularización y arquitecturas como los perceptrones multicapa y las redes neuronales convolucionales y recurrentes. Se enfatizará el uso de Python (utilizando Jupyter Notebooks) y bibliotecas populares como NumPy, pandas, Matplotlib, scikit-learn y PyTorch o TensorFlow. 
 
-Se realizarán aplicaciones reales en áreas como monitoreo de salud estructural, predicción de resistencia de materiales, análisis de series temporales en tráfico y recursos hídricos, detección de daños por imágenes, redes neuronales informadas por física para modelado de procesos físicos, aproximación eficiente de simulaciones costosas computacionalmente, entre otras aplicaciones relevantes para la ingeniería civil.
+Se realizarán aplicaciones reales en áreas como monitoreo de salud estructural, predicción de resistencia de materiales, valoración del estado de pavimentos, análisis de series temporales en tráfico y recursos hídricos, detección de daños por imágenes, redes neuronales informadas/guiadas por la física para modelado de procesos, aproximación eficiente de simulaciones costosas computacionalmente, entre otras aplicaciones relevantes para la ingeniería civil.
 
 La materia se desarrollará mediante clases magistrales, complementadas con el análisis de casos prácticos en ingeniería civil.
 
@@ -110,15 +110,13 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
 * Aplicar técnicas de optimización (backpropagation, descenso de gradiente, Adam), regularización (L1/L2, dropout, normalización) y prevención de sobreajuste para mejorar la generalización de modelos en escenarios de ingeniería con datos limitados o ruidosos.
 * Evaluar críticamente los resultados obtenidos y comunicar sus hallazgos de manera efectiva.
 
-La materia se desarrollará mediante clases magistrales.
-
 ## Contenido programático
 
 ### 0. Repaso de diferentes temas de álgebra lineal, cálculo vectorial y teoría de probabilidades.
 
 Cada estudiante debe repasar por cuenta propia los siguientes temas:
 #### Repaso de álgebra lineal (teoría y ejercicios de aplicación)
-* Producto punto, producto cruz (con todas las propiedades que aparecen en el apéndice de las notas)
+* Producto punto, producto cruz (con todas sus propiedades)
 * Norma de un vector
 * Matrices
 * Valores y vectores propios
@@ -137,6 +135,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
 #### Repaso de teoría de probabilidades (teoría y ejercicios de aplicación)
 * Variables aleatorias discretas y continuas
+* Variables aleatorias independientes
 * Teorema de Bayes
 * Función de distribución acumulada
 * Función de densidad de probabilidad
@@ -145,7 +144,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Método de la máxima verosimilitud (maximum likelihood method)
 
 ### 1. Introduction to machine learning
-* Overview of ML in civil engineering (material science, structural, geotechnical, transport, water, structural health monitoring).
+* Overview of ML in civil engineering (material science, structural, geotechnical, transport, water, structural health monitoring, pavements, etc).
 * Types of learning: supervised, unsupervised, semi‑supervised; reinforcement learning.
 * Neural networks and deep learning
 * Datasets
@@ -161,6 +160,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Overfitting vs. Underfitting
 * Bias-variance trade-off
 * Model selection
+* Decision making and evaluation metrics
 * Limitations of linear models
 * Applications of linear regression and classification in civil engineering
 
@@ -196,9 +196,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Data augmentation
 * Dropout
 * Residual connections
-* Normalization layers
-* Batch normalization
-* Layer normalization
+* Normalization layers (batch normalization, layer normalization, etc.)
 * Applications of regularization techniques in civil engineering
 
 ### 6. Convolutional neural networks
@@ -222,7 +220,13 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Introduction to transformers and attention mechanisms
 * Applications of RNNs in civil engineering
 
-### 8. Ethical considerations in machine learning
+### 8. Ethical considerations in artificial intelligence and machine learning
+* Bias and fairness in machine learning models
+* Data privacy, security, and surveillance
+* Transparency, explainability, and interpretability of AI models
+* Accountability and responsibility in AI deployment
+* Safety, reliability, and robustness of AI systems
+* Environmental and social impacts of AI and machine learning
 
 <!---
 ### 1. Introducción al aprendizaje automático
@@ -301,13 +305,14 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Limitaciones de las RNN
 * Introducción a los transformadores y mecanismos de atención
 * Aplicaciones de las RNN en ingeniería civil
---->
 
-
-<!---
-### 11. Applications of machine learning in engineering
-
-### 12. Ethical considerations in machine learning
+### 8. Consideraciones éticas en inteligencia artificial y aprendizaje automático
+* Sesgo y equidad en los modelos de aprendizaje automático
+* Privacidad, seguridad y vigilancia de datos
+* Transparencia e interpretabilidad de los modelos de IA
+* Responsabilidad en la implementación de la IA
+* Seguridad, fiabilidad y robustez de los sistemas de IA
+* Impactos ambientales y sociales de la IA y el aprendizaje automático
 --->
 
 ## Bibliografía básica
