@@ -17,7 +17,7 @@
 * Bishop, Christopher M. (2006). [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf). Springer. `Biblioteca Carlos Enrique Ruíz 006.4/B622p`
 * Bishop, Christopher M., and Bishop, Hugh (2024). Deep learning: foundations and concepts. Springer. The book can be read online at https://www.bishopbook.com/. 
 * Deisenroth, Marc Peter; Faisal, A. Aldo; and Ong, Cheng Soon (2020). [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf). Cambridge University Press. https://mml-book.github.io/ `Biblioteca Carlos Enrique Ruíz 512.00285/D325m`
-* James, Gareth; Witten, Daniela; Hastie, Trevor; Tibshirani, Robert; and Taylor Jonathan (2023). [An Introduction to Statistical Learning with applications in Python](https://www.statlearning.com/). Springer.
+* James, Gareth; Witten, Daniela; Hastie, Trevor; Tibshirani, Robert; and Taylor Jonathan (2023). [An Introduction to Statistical Learning with applications in Python](https://www.statlearning.com/). Springer. `Biblioteca Carlos Enrique Ruíz 519.5/J272i (R version, 2014)`
 * Goodfellow, Ian; Bengio, Yoshua; and Courville, Aaron (2016). [Deep Learning](https://www.deeplearningbook.org/). MIT Press, http://www.deeplearningbook.org. See also: https://github.com/janishar/mit-deep-learning-book-pdf `Biblioteca Alfonso Carvajal Escobar 006.31/G651d`
 * Géron, Aurélien (2022). [Hands-on machine learning with scikit-learn and TensorFlow: concepts, tools, and techniques to build intelligent systems.]((https://ageron.github.io/)). O'Reilly. `Biblioteca Alfonso Carvajal Escobar 006.31/G377h`
 * Géron, Aurélien (2025). [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://ageron.github.io/). O'Reilly.
@@ -26,7 +26,7 @@
 * Murphy, Kevin P. (2025, April 18). [Probabilistic Machine Learning: An introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf), MIT Press, http://probml.github.io/book1
 * Prince, Simon J.D. (2025, May 29). [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf). The MIT Press, http://udlbook.com
 * Raschka, Sebastian; Liu, Yuxi (Hayden); and Mirjalili, Vahid (2022). [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://darajat.ly/wp-content/uploads/2024/06/Machine-Learning-With-PyTorch-and-Scikit-Learn.pdf). Packt Publishing, Birmingham, UK. https://github.com/rasbt/machine-learning-book `Biblioteca Alfonso Carvajal Escobar 006.31/R223m`
-* Theodoridis, Sergios (2015). Machine learning :a Bayesian and optimization perspective. CRC Press, Taylor & Francis Group. `Biblioteca Alfonso Carvajal Escobar 006.31/T388m`
+* Theodoridis, Sergios (2026). Machine Learning: From the Classics to Deep Networks, Transformers, and Diffusion Models. CRC Press, Taylor & Francis Group. 3th edition. `Biblioteca Alfonso Carvajal Escobar 006.31/T388m (1st edition, 2015)`
 * Zhang, Aston; Lipton, Zachary C.; Li, Mu; and Smola, Alexander J. (2023). [Dive into Deep Learning](https://d2l.ai/d2l-en.pdf). Cambridge University Press, https://D2L.ai
 
 ## Blogs
