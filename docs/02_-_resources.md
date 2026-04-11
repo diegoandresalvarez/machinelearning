@@ -26,7 +26,7 @@
 * Murphy, Kevin P. (2025, April 18). [Probabilistic Machine Learning: An introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf), MIT Press, http://probml.github.io/book1
 * Prince, Simon J.D. (2025, May 29). [Understanding Deep Learning](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf). The MIT Press, http://udlbook.com
 * Raschka, Sebastian; Liu, Yuxi (Hayden); and Mirjalili, Vahid (2022). [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://darajat.ly/wp-content/uploads/2024/06/Machine-Learning-With-PyTorch-and-Scikit-Learn.pdf). Packt Publishing, Birmingham, UK. https://github.com/rasbt/machine-learning-book `Biblioteca Alfonso Carvajal Escobar 006.31/R223m`
-* Theodoridis, Sergios (2026). Machine Learning: From the Classics to Deep Networks, Transformers, and Diffusion Models. CRC Press, Taylor & Francis Group. 3th edition. `Biblioteca Alfonso Carvajal Escobar 006.31/T388m (1st edition, 2015)`
+* Theodoridis, Sergios (2025). Machine Learning: From the Classics to Deep Networks, Transformers, and Diffusion Models. CRC Press, Taylor & Francis Group. 3th edition. `Biblioteca Alfonso Carvajal Escobar 006.31/T388m (1st edition, 2015)`
 * Zhang, Aston; Lipton, Zachary C.; Li, Mu; and Smola, Alexander J. (2023). [Dive into Deep Learning](https://d2l.ai/d2l-en.pdf). Cambridge University Press, https://D2L.ai
 
 ## Blogs
