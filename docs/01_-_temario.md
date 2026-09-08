@@ -101,6 +101,8 @@ Además, se explorarán aplicaciones prácticas en áreas como:
 * Combinación de datos geoespaciales (altitud, uso del suelo, tipo de suelo, precipitaciones) con aprendizaje automático para crear mapas de alta resolución que identifiquen las zonas con mayor riesgo de inundaciones repentinas.
 --->
 
+NOTA: según [FUNDEU](https://www.fundeu.es/recomendacion/aprendizaje-automatico-mejor-que-machine-learning/), la forma correcta de escribir "machine learning" en español es "aprendizaje automático". Sin embargo, en el ámbito académico y profesional, es común utilizar el término en inglés.
+
 ## Objetivos de aprendizaje
 
 Se espera que al final del curso, el estudiante esté en capacidad de:
@@ -324,6 +326,9 @@ Ver en la página [Recursos](02_-_resources.md)
 
 ### Falta a los exámenes
 Siempre que usted falte a un examen, debe haber algún documento que lo exonere de dicha inasistencia. Cuando usted por algún motivo de fuerza mayor no pueda asistir al examen, usted debe avisarle al profesor con anterioridad ya sea personalmente o por correo. En esos casos en lo posible, debe demostrarlo. Por ejemplo: si le tocó viajar a su pueblo esa semana porque algo sucedió un evento familiar de trascendencia, entonces una forma de certificar que usted viajó son los tiquetes de ida y vuelta a su pueblo. Sin una excusa o una notificación previa no se repetirán los exámenes y usted tendrá como nota un cero.
+
+### Dispositivos electrónicos durante los exámenes
+Durante los exámenes, los celulares, teléfonos, gafas inteligentes, y en general cualquier dispositivo electrónico debe permanecer apagado y guardado en el morral. Si el estudiante porta alguno de estos dispositivos electrónicos en sus manos, bolsillos o en cualquier lugar diferente del morral, independientemente de si está apagado o encendido, esto resultará en la anulación del examen. Esta medida se aplica como parte de las normas contra el fraude académico, ante la proliferación del fraude con la tecnología.
 
 ### Fraude en los exámenes o trabajos
 Estos se penalizarán así:
